@@ -1,0 +1,17 @@
+{
+  "name": "parse-yarn-lockfile",
+  "version": "1.0.0",
+  "description": "Parse yarn v1 lock file to json.",
+  "repository": { "url": "https://github.com/VincentBailly/parse-yarn-lockfile" },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "invariant": "^2.2.4",
+    "js-yaml": "^4.0.0",
+    "strip-bom": "^4.0.0"
+  }
+}
